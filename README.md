@@ -94,7 +94,7 @@ Each student must submit:
 
 ## 🧠 Learning Outcome Recap
 
-By the end of this assignment, students will:
+By the end of this assignment, you will:
 
 * Know when to use a `HashMap` for mapping and lookup
 * Understand `HashSet` for deduplication
