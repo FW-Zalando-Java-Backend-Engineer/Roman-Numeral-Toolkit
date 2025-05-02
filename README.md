@@ -76,8 +76,6 @@ This class will track **unique conversions** and allow iteration.
 
 ## 🧪 Bonus Testing Suggestions
 
-Encourage students to:
-
 * Write unit tests using **JUnit 5** for each class
 * Assert that duplicates are filtered correctly
 * Validate correct Roman numeral outputs
